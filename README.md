@@ -1,5 +1,5 @@
 # Unity Shader Workshop
-###### June 2019 @ Parsons School of Design, Design and Technology
+###### June 2019 @ Parsons School of Design, Design and Technology, Summer Dorkshop
 ###### [Jungu Guo](http://www.junguguo.com/) 
 guoj038@newschool.edu
 
