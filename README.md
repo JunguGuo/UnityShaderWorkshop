@@ -40,6 +40,9 @@ This introductory yet intensive workshop explores the fundamentals of GPU-based 
 <br>
 
 ***
+
+<br>
+
 ## SYLLABUS 
 
 ### **Session 1: Introduction to Shader** (Tue, June 11 )
@@ -84,6 +87,7 @@ This introductory yet intensive workshop explores the fundamentals of GPU-based 
 3. Go over the Unity surface shader examples and create your own surface shader
 
 <br>
+
 ### **Session 2: TBA**
 ##### 1. 	Noise
 ##### 2.  Lighting Models
