@@ -44,7 +44,7 @@ This introductory yet intensive workshop explores the fundamentals of GPU-based 
 <br>
 
 ## SYLLABUS 
-
+> Note: Use this syllabus as a checklist to recall the key points covered in lectures. When you feel fuzzy about the concepts then check out the slides for more details.
 ### **Session 1: Introduction to Shader** (10:30 am - 5:00pm, Tue, June 11 )
 ##### 1. 	What is Shader?
 ##### 2. 	CPU computing vs GPU computing
