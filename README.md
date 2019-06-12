@@ -101,7 +101,7 @@ This introductory yet intensive workshop explores the fundamentals of GPU-based 
 
 <br>
 
-## CODE & EXAMPLE 
+## CODE & CLASS EXAMPLE 
 ### 01 HelloShader
 
 
