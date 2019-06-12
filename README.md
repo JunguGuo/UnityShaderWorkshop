@@ -45,7 +45,7 @@ This introductory yet intensive workshop explores the fundamentals of GPU-based 
 
 ## SYLLABUS 
 
-### **Session 1: Introduction to Shader** (Tue, June 11 )
+### **Session 1: Introduction to Shader** (10:30 am - 5:00pm, Tue, June 11 )
 ##### 1. 	What is Shader?
 ##### 2. 	CPU computing vs GPU computing
 ##### 3. 	**Rendering Pipeline**
