@@ -7,9 +7,9 @@ guoj038@newschool.edu
 This introductory yet intensive workshop explores the fundamentals of GPU-based graphics programming in Unity, with particular emphasis on understanding the rendering pipeline, learning the math and algorithms relevant to graphics and writing vertex shader, fragment shader, surface shader, compute shader and post-proessing shader with the ShaderLab language provided by Unity. 
 
 ## LEARNING OUTCOME
-1. A thorough understanding of the rendering pipeline and lighting models
+1. A bird’s-eye view of what rendering is, what a shader is and how it fits into the rendering process. 
 2. The technical skills necessary to create different types of shaders in Unity (surface, vertex, fragment, compute shader, post-processing)
-3. A sufficient knowldege of common techniques of mathematics and algorithms to create generative visuals
+3. A thorough understanding of the common techniques of mathematics and algorithms needed to create generative visuals
 4. ..
 
 
