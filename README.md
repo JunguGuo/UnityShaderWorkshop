@@ -82,7 +82,7 @@ This introductory yet intensive workshop explores the fundamentals of GPU-based 
 2. Check out Patricio Gonzalez's video lecture on Shaders: [Shaders, a computational language of light - GROW 2018](https://www.youtube.com/watch?v=Au3zQwJj5AU)
 
 ###### Coding
-1. Try to create all the in-class examples from scratch
+1. Try to recreate all the in-class examples from scratch
 2. Go over the per-vertex lighting example and try to implement a per-pixel diffuse lighting model 
 3. Go over the Unity surface shader examples and create your own surface shader
 
