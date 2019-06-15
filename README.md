@@ -79,7 +79,8 @@ This introductory yet intensive workshop explores the fundamentals of GPU-based 
 #####  	**##  Assginment ##**
 ###### Reading
 1. *Chapter 10: Normal Mapping* — [Practical Shader Development](https://www.amazon.com/Practical-Shader-Development-Fragment-Developers/dp/1484244567/ref=sr_1_6?keywords=unity+shader&qid=1560329194&s=gateway&sr=8-6)
-2. Check out Patricio Gonzalez's video lecture on Shaders: [Shaders, a computational language of light - GROW 2018](https://www.youtube.com/watch?v=Au3zQwJj5AU)
+2. This talk by Patricio Gonzalez explains vividly **What is Shader**: [Enhancing your maps and visualizations with WebGL GLSL Shaders — Patricio Gonzalez Vivo](https://www.youtube.com/watch?v=5AGx0_2xI6Y)
+3. [Optional] Another talk by Patricio Gonzalez on how shader as a poetic media enriches his artistic practices: [Shaders, a computational language of light - GROW 2018](https://www.youtube.com/watch?v=Au3zQwJj5AU)
 
 ###### Coding
 1. Try to recreate all the in-class examples from scratch
